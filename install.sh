@@ -1,12 +1,5 @@
 #! /bin/bash
 
-#update
-sudo apt-get update
-sudo apt-get --fix-missing && sudo apt update
-
-#install wget
-sudo apt-get install wget
-
 #install ness nerdfonts
 mkdir -p ~/.local/share/fonts/
 
