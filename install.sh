@@ -18,5 +18,3 @@ mv ~/.zshrc ~/.zshrc-cp
 
 #get new .zshrc file 
 cd ~/ && wget https://raw.githubusercontent.com/Pho3nix-Jacki3/zshrc-with-ip/main/.zshrc
-
-source ~/.zshrc
