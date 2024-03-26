@@ -1,5 +1,6 @@
 # Fun and useful `.zshrc`
-This is based on [ZephyFoxy's .zshrc file](https://github.com/purpl3f0xsecur1ty/useful_random_stuff/blob/main/.zshrc). I added lolcat and some other fun stuff you might like. <br>You still get the eth0, tun0. wlan0 and I added the Virtual Hacking Lab's ppp0.
+This is based on [ZephyFoxy's .zshrc file](https://github.com/purpl3f0xsecur1ty/useful_random_stuff/blob/main/.zshrc), but I added lolcat and some other fun stuff you might like.
+<br>You still get the eth0, tun0, and wlan0. I added the Virtual Hacking Lab's ppp0. <br>It was a ton of fun making this, and I hope you enjoy using it.
 
 ## Image of what it looks like :)
 
