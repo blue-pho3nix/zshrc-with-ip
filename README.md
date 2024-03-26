@@ -53,6 +53,7 @@ cat ~/.zshrc
 
 ![10](https://github.com/Pho3nix-Jacki3/zshrc-with-ip/assets/148140471/df456ea0-e458-4ff2-a76c-138680f959d8)
 ![11](https://github.com/Pho3nix-Jacki3/zshrc-with-ip/assets/148140471/56980763-08e8-47c4-859d-76f734266c87)
+
 ^ Edit/Create any aliases you want
 
 ### b. Add/Remove any commands you want to run through lolcat. Lolcat is what gives you the rainbow colors.
@@ -95,7 +96,7 @@ Documents
 ![17](https://github.com/Pho3nix-Jacki3/zshrc-with-ip/assets/148140471/c476f37d-43b4-4fb3-86bd-fd840a7f312c)
 ![16](https://github.com/Pho3nix-Jacki3/zshrc-with-ip/assets/148140471/4a9f1a2c-e962-408e-9977-7cde09ebefb7)
 
-### d. If you start a VPN or wifi connection you'll need to source your ~/.zshrc file to see it. You can do this by just running `n`
+### d. If you start a VPN or WIFI connection you'll need to source your ~/.zshrc file to see it. You can do this by just running `n`
 
 ```
 n
