@@ -18,4 +18,4 @@ mv ~/.zshrc ~/.zshrc-old
 #get new .zshrc file 
 cd ~/ && wget https://raw.githubusercontent.com/Pho3nix-Jacki3/zshrc-with-ip/main/.zshrc
 
-source ~/.zshrc
+echo "Close the terminal and open a new one to see the changes. :) Have fun!"
