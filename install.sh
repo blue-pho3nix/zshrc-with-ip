@@ -1,5 +1,8 @@
 #! /bin/bash
 
+#install lolcat
+sudo apt update && sudo apt install lolcat
+
 #install ness nerdfonts
 mkdir -p ~/.local/share/fonts/
 
