@@ -118,12 +118,11 @@ fi
 
 
 DIR=$'%b%F{blue}%(6~.%-1~/…/%4~.%5~)%b%F{cyan}'
-NAME=$'%B%F{magenta}🐱blue%b@pho3nix'
 
 if [ "$color_prompt" = yes ]; then
 
 	# Assemble the prompt in pieces for readability
-	LINE1=$'%F{cyan}┌──'$NAME'%F{cyan}'$VHL$LOCAL$VPN$WIFI
+	LINE1=$'%F{cyan}┌──'%B%F{magenta}🐱$USERNAME%b@$(hostname)''$VHL$LOCAL$VPN$WIFI
 	LINE2=$'\n├──%b%F{blue} '$DIR''
 	LINE3=$'\n└─%B%F{green}$   %b%F{reset}%F{green}'
 
