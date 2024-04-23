@@ -15,7 +15,7 @@ If you run into issues on other distros you can make an [issue](https://github.c
 ### 1. Get the install file
 
 ```bash
-wget https://raw.githubusercontent.com/Pho3nix-Jacki3/zshrc-with-ip/main/install.sh
+wget https://raw.githubusercontent.com/blue-pho3nix/zshrc-with-ip/main/install.sh
 ```
 
 ![2](https://github.com/Pho3nix-Jacki3/zshrc-with-ip/assets/148140471/8956346e-5181-40a9-8f7b-13e87fa832a3)
