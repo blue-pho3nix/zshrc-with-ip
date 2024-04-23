@@ -16,6 +16,6 @@ fc-cache -fv
 mv ~/.zshrc ~/.zshrc-old
 
 #get new .zshrc file 
-cd ~/ && wget https://raw.githubusercontent.com/Pho3nix-Jacki3/zshrc-with-ip/main/.zshrc
+cd ~/ && wget https://raw.githubusercontent.com/blue-pho3nix/zshrc-with-ip/main/.zshrc
 
 echo "Close the terminal and open a new one to see the changes. :) Have fun!"
